@@ -5,4 +5,4 @@
   > $ pip install -r requirements.txt
 
 # How to run the code
-* Run the Jupyter notebook: "./src/Landslide Analysis.ipynb"
+* Run the Jupyter notebook: "Landslide Analysis.ipynb"
