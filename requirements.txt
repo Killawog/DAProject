@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+matplotlib
+os
+plotly
+csv
+codecs
+urllib
+sys
